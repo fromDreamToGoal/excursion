@@ -27,7 +27,16 @@ body {
     color: aquamarine;
 }
 
+/* FOOTER */
+
+
 .image {
     max-width: 6%;
     height: auto;
+}
+
+.footer--copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
 }
